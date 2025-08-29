@@ -24,8 +24,6 @@ I enjoy building **tiny tools, graphics experiments, and software** in **Go** & 
 | [**env**](https://github.com/peterhellberg/env) & [**duration**](https://github.com/peterhellberg/duration) | Helpers for environment configs & RFC 3339 duration parsing | Go |
 | [**typ**](https://github.com/peterhellberg/typ) | Zig module for Typst plugin development | Zig |
 | [**w4-init**](https://github.com/peterhellberg/w4-init) | Starter kit for Zig WASM-4 carts | Zig |
-| [**giphy**](https://github.com/peterhellberg/giphy) | Go library + CLI for the Giphy API | Go |
-| [**life**](https://github.com/peterhellberg/life) | Terminal-based Conway’s Game of Life | Go |
 | [**dotfiles**](https://github.com/peterhellberg/dotfiles) | My Neovim, and shell setup | Mixed |
 
 ---
